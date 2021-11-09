@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.chart-wrapper {
+  padding: 28px;
+  border: 2px solid coral;
+}
